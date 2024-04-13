@@ -35,12 +35,10 @@ Before running the project, obtain the necessary API keys from the following sou
 
 bash
 cd src
+cd agents
+run the python u.py
+run the python analyzer_agent.py
 
-
-- Run the main script to start the agents.
-
-bash
-python main.py
 
 
 Now, the Intraday Stocks Predictor is up and running, ready to analyze stock data and provide trading recommendations based on the user's input. Happy trading! 🎉
