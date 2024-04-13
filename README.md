@@ -10,7 +10,7 @@ The project uses two agents for its operations:
 
 - *u.py*: This agent acts as a user interface, receiving input from the user such as investment amount and risk tolerance. It forwards this information to the analyzer agent for further processing and provides the user with trading recommendations.
 
-- *analyzer_agent.py*: This agent analyzes historical data for a nifty 50 stocks to provide buy or sell recommendations based on volume trend, price trend, volatility, and RSI. It considers the user's investment amount and risk tolerance when generating recommendations and provides detailed output including take profit, stop loss, and quantity of stocks to buy or sell.
+- *analyzer_agent.py*: This agent analyzes historical data for nifty 50 stocks to provide buy or sell recommendations based on volume trend, price trend, volatility, and RSI. It considers the user's investment amount and risk tolerance when generating recommendations and provides detailed output including take profit, stop loss, and quantity of stocks to buy or sell.
 
 ## Getting Started 🚀
 
