@@ -1,4 +1,4 @@
- # Intraday Stocks Predictor
+# Intraday Stocks Predictor
 
 ## Description of the project
 
