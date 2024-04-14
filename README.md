@@ -64,7 +64,7 @@ Before running the project, obtain the necessary API keys from the following sou
 
 4. **Run the User Interface**
 
-   In a separate terminal or command prompt window, navigate to the same `src/agents` directory as in Step 2, and run the user interface:
+   In a separate terminal or command prompt window, navigate to the same `src/agents` directory as in Step 2, and run the u.py agent:
 
    ```bash
    python u.py
