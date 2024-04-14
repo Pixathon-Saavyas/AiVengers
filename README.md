@@ -33,11 +33,44 @@ Before running the project, obtain the necessary API keys from the following sou
 
 - Navigate to the project's directory.
 
-bash
-cd src
-cd agents
-run the python u.py
-run the python analyzer_agent.py
+
+
+
+1. **Navigate to the Project Directory**
+
+   Open your terminal or command prompt and navigate to the project's directory using the `cd` command:
+
+   ```bash
+   cd /Intraday Stocks Predictor
+   ```
+
+2. **Change Directory to Agents**
+
+   Once inside the project directory, navigate to the `src/agents` directory:
+
+   ```bash
+   cd src/agents
+   ```
+
+3. **Run the Analyzer Agent**
+
+   To start the analyzer agent, run the following command:
+
+   ```bash
+   python analyzer_agent.py
+   ```
+
+   The analyzer agent will start running and perform its designated tasks.
+
+4. **Run the User Interface**
+
+   In a separate terminal or command prompt window, navigate to the same `src/agents` directory as in Step 2, and run the u.py agent:
+
+   ```bash
+   python u.py
+   ```
+
+   This will allow the user to give the input I) Amount he wants to inveest II) Risk he can take
 
 
 
