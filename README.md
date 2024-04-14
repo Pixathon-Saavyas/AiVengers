@@ -34,10 +34,10 @@ Before running the project, obtain the necessary API keys from the following sou
 - Navigate to the project's directory.
 
 bash
-cd src
-cd agents
-run the python u.py
-run the python analyzer_agent.py
+**cd src**
+**cd agents**
+**i)** run  **python u.py** 
+**ii)** run  **python analyzer_agent.py**
 
 
 
